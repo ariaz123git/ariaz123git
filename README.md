@@ -9,6 +9,7 @@ I'm a third-year Computer Engineering student at Queen's University, looking for
 
 ### On GitHub
 
+- **[RentReceipts](https://github.com/Edwardddyang/HackTheValley)** ([live](https://www.readreceipt.work)): a Toronto renter's research tool my team of four built in one weekend at Hack The Valley 11. Search an address or paste a rental ad to see the building's City inspection score, its rent against CMHC averages, and what's going on around it, all from open data. I built its Gemini features, which only show a line if it cites a real source row.
 - **[tutoring-skills](https://github.com/ariaz123git/tutoring-skills)**: seven Claude Code skills I built and use for my physics tutoring. They generate interactive lessons and homework, recompute every number in Python, and run a model review pass before I sign off on anything a student sees.
 - **[geeked-geese](https://github.com/ariaz123git/geeked-geese)**: an early, unpolished physics comedy in Godot 4 where you fly a Canada goose flock from a suburban pond to Florida while parody substances scramble the controls. `verify.ps1` runs 13 automated gates over it, from compile checks to a headless playthrough of the whole campaign.
 
